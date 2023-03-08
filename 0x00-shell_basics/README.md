@@ -1,1 +1,1 @@
-ls -aln .
+mkdir
