@@ -1,2 +1,3 @@
 #!/bin/bash
-ls
+0-current_working_directory  12-file_type      14-copy_html  2-bring_me_home  4-listmorefiles       6-firstdirectory  8-firstdelete       boot    README.md
+10-back                      13-symbolic_link  1-listit      3-listfiles      5-listfilesdigitonly  7-movethatfile    9-firstdirdeletion
